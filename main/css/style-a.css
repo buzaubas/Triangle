@@ -30,11 +30,22 @@
 }
 
 .box{
-	width: 390px;
+	width: 330px;
 	float: left;
 	/* padding: 45px 0px; */
 	text-align:center;
+	padding: 0px 30px;
 }
 
 .box img
 {height: 75px;}
+
+.slider{
+	background-image:url(../img/slider-bg.png);
+	background-repeat: repeat-x;
+	background-position: 0px 93%;
+}
+
+.slider1{
+	background-color: green;
+}
