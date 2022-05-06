@@ -1,0 +1,40 @@
+.cont {
+	width: 1170px;
+	margin: 0px auto;
+	border: 2px solid #ebebeb;
+}
+
+.sing{
+	color: #0099ae;
+    border: 1px solid #0099ae;
+	padding: 10px 25px;
+	width: 62px;
+	border-radius: 4px;
+	cursor: pointer;
+	text-transform: uppercase;
+}
+
+.sing:hover{
+	color:  #01707f;
+	border: 1px solid  #01707f;
+}
+
+.text-1{
+	width: 41%;
+	float:left;
+	padding: 82px 0px;
+}
+
+.img-r{
+	
+}
+
+.box{
+	width: 390px;
+	float: left;
+	/* padding: 45px 0px; */
+	text-align:center;
+}
+
+.box img
+{height: 75px;}
